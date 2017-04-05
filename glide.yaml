@@ -1,0 +1,5 @@
+package: 7masters-talk
+import:
+- package: golang.org/x/tools
+  subpackages:
+  - cmd/present

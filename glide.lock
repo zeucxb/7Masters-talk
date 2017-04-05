@@ -1,0 +1,8 @@
+hash: 134b22c0a5f0f74e4f617f5c39c3851b72ea5305bc9f06a76958c2c056bc768a
+updated: 2017-04-04T22:14:15.426907251-03:00
+imports:
+- name: golang.org/x/tools
+  version: 37a1062ad0bb70f026cd45d6b92cb37eacd927bb
+  subpackages:
+  - cmd/present
+testImports: []
