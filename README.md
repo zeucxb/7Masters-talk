@@ -1,5 +1,5 @@
 # 7Masters-talk
-Golang GraphQL API Talk 7Masters
+Golang GraphQL API Talk - 7Masters
 
 # Slides
 Instale o present:
